@@ -1,0 +1,18 @@
+{
+    "name": "afshinakhgar/file_manager",
+    "description": "Simple File manager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "afshin",
+            "email": "afshin.akhgar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FileManager\\": "src/"
+        }
+    },
+    "require": {}
+}
