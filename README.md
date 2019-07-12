@@ -1,5 +1,6 @@
 # FileManager
 
 
-```composer require afshinakhgar/file_manager
+```
+composer require afshinakhgar/file_manager
 ```
